@@ -1,5 +1,7 @@
 # Привет, я MR-Geri
-Меня зовут Илья и я занимаюсь Python разработкой с 2019 года.
+Меня зовут Илья и я занимаюсь Python разработкой с 2019 года.  
+  
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-070c0f?style=for-the-badge&logo=vk)](https://vk.com/mr_geri)
 
 # Что я попробовал
 - Parsing
@@ -24,5 +26,5 @@
 [QT приложение кинотеатры](https://github.com/MR-Geri/cinema)  
 [Игра ErrorAndAnotherError](https://github.com/MR-Geri/ErrorAndAnotherError)
 
-# Контакты
-[Vk](https://vk.com/mr_geri)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-Geri&theme=dark&show_icons=true)](https://github.com/MR-Geri/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-Geri&theme=dark&layout=compact)](https://github.com/MR-Geri/github-readme-stats)
